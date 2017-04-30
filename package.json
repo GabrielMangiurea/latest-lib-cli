@@ -1,6 +1,6 @@
 {
   "name": "latest-lib-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Get the latest version of a CSS or JavaScript library hosted on CDNJS",
   "keywords": [
     "latest",
@@ -18,7 +18,7 @@
   "dependencies": {
     "chalk": "^1.1.3",
     "execa": "^0.6.3",
-    "latest-lib": "^0.1.0",
+    "latest-lib": "^0.2.0",
     "loading-indicator": "^2.0.0",
     "yargs": "^7.1.0"
   },

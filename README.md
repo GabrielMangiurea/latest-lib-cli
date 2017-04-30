@@ -25,6 +25,7 @@ Options:
 
 Examples:
   $ latest-lib jquery
+  $ latest-lib jquery@2
   $ latest-lib bootstrap --only css
   $ latest-lib bootstrap --only js
 ```

@@ -66,6 +66,7 @@ yargs // eslint-disable-line no-unused-expressions
 	})
 	.usage('Usage: \x0A\u00A0\u00A0$ latest-lib <name> [--only <css/js>]')
 	.example('$ latest-lib jquery')
+	.example('$ latest-lib jquery@2')
 	.example('$ latest-lib bootstrap --only css')
 	.example('$ latest-lib bootstrap --only js')
 	.help('help', 'Show this screen')
